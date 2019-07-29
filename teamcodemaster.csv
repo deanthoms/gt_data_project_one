@@ -1,66 +1,66 @@
-Team Code,Name,Conference Code,,
-8,Alabama,911,,
-29,Arizona,905,,
-28,Arizona State,905,,
-31,Arkansas,911,,
-37,Auburn,911,,
-51,Baylor,25354,,
-67,Boston College,821,,
-107,California,905,,
-147,Clemson,821,,
-157,Colorado,25354,,
-193,Duke,821,,
-235,Florida,911,,
-234,Florida State,821,,
-257,Georgia,911,,
-255,Georgia Tech,821,,
-301,Illinois,827,,
-306,Indiana,827,,
-312,Iowa,827,,
-311,Iowa State,25354,,
-328,Kansas,25354,,
-327,Kansas State,25354,,
-334,Kentucky,911,,
-367,Louisville,823,,
-365,LSU,911,,
-392,Maryland,821,,
-415,Miami (Florida),821,,
-418,Michigan,827,,
-416,Michigan State,827,,
-428,Minnesota,827,,
-433,Mississippi,911,,
-430,Mississippi State,911,,
-434,Missouri,25354,,
-463,Nebraska,25354,,
-457,North Carolina,821,,
-490,North Carolina State,821,,
-509,Northwestern,827,,
-513,Notre Dame,99001,,
-518,Ohio State,827,,
-522,Oklahoma,25354,,
-521,Oklahoma State,25354,,
-529,Oregon,905,,
-528,Oregon State,905,,
-539,Penn State,827,,
-545,Pittsburgh,823,,
-559,Purdue,827,,
-587,Rutgers,823,,
-648,South Carolina,911,,
-674,Stanford,905,,
-688,Syracuse,823,,
-698,TCU,5486,,
-694,Tennessee,911,,
-703,Texas,25354,,
-697,Texas A&M,25354,,
-700,Texas Tech,25354,,
-110,UCLA,905,,
-657,USC,905,,
-732,Utah,5486,,
-736,Vanderbilt,911,,
-746,Virginia,821,,
-742,Virginia Tech,821,,
-749,Wake Forest,821,,
-756,Washington,905,,
-754,Washington State,905,,
-768,West Virginia,823,,
-796,Wisconsin,827,,
+Team Code,Name,Conference Code
+8,Alabama,911
+29,Arizona,905
+28,Arizona State,905
+31,Arkansas,911
+37,Auburn,911
+51,Baylor,25354
+67,Boston College,821
+107,California,905
+147,Clemson,821
+157,Colorado,25354
+193,Duke,821
+235,Florida,911
+234,Florida State,821
+257,Georgia,911
+255,Georgia Tech,821
+301,Illinois,827
+306,Indiana,827
+312,Iowa,827
+311,Iowa State,25354
+328,Kansas,25354
+327,Kansas State,25354
+334,Kentucky,911
+367,Louisville,821
+365,LSU,911
+392,Maryland,821
+415,Miami (Florida),821
+418,Michigan,827
+416,Michigan State,827
+428,Minnesota,827
+433,Mississippi,911
+430,Mississippi State,911
+434,Missouri,25354
+463,Nebraska,25354
+457,North Carolina,821
+490,North Carolina State,821
+509,Northwestern,827
+513,Notre Dame,99001
+518,Ohio State,827
+522,Oklahoma,25354
+521,Oklahoma State,25354
+529,Oregon,905
+528,Oregon State,905
+539,Penn State,827
+545,Pittsburgh,821
+559,Purdue,827
+587,Rutgers,827
+648,South Carolina,911
+674,Stanford,905
+688,Syracuse,821
+698,TCU,25354
+694,Tennessee,911
+703,Texas,25354
+697,Texas A&M,25354
+700,Texas Tech,25354
+110,UCLA,905
+657,USC,905
+732,Utah,905
+736,Vanderbilt,911
+746,Virginia,821
+742,Virginia Tech,821
+749,Wake Forest,821
+756,Washington,905
+754,Washington State,905
+768,West Virginia,25354
+796,Wisconsin,827
